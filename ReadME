@@ -1,0 +1,5 @@
+ERD is to visually Represnt the Database to be created
+
+SQL scripts are opened in PostgreSQL and ran, open .sql files in pgadmin4 and and select a part of the code and click run to execute the command.
+
+Queries are written to check and validate the database functions.
